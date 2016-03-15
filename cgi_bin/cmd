@@ -1,0 +1,551 @@
+    1  yum install gcc
+    2  ll
+    3  ls
+    4  l
+    5  init 3
+    6  su
+    7  echo $HOME
+    8  ps aux
+    9  su wmy
+   10  sa
+   11  wmy
+   12  su wmy
+   13  su
+   14  make clean
+   15  clean
+   16  clean _
+   17  clean -
+   18  ifup eth0
+   19  ifconfig
+   20  ps aux|grep ssh
+   21  netstat -nltp
+   22  ./test.sh
+   23  ls
+   24  gcc -o test test.sh
+   25  .\test.sh
+   26  ./test.sh
+   27  vim test.sh
+   28  type test
+   29  vim test.sh
+   30  ./test.sh
+   31  chmod u+x test.sh
+   32  ./test.sh
+   33  vim test.sh
+   34  ./test.sh
+   35  echo $?
+   36  vim test.sh
+   37  ./test.sh
+   38  vim test.sh
+   39  ./test.sh
+   40  vim test.sh
+   41  ./test.sh
+   42  vim test.sh
+   43  [
+   44  type [
+   45  vim test.sh
+   46  boy
+   47  ./test.sh
+   48  vim test.sh
+   49  ./test.sh
+   50  vim test.sh
+   51  ./test.sh
+   52  vim test.sh
+   53  ./test.sh
+   54  vim test.sh
+   55  ./test.sh
+   56  vim test.sh
+   57  ./test.sh
+   58  vim test.sh
+   59  ./test.sh
+   60  vim test.sh
+   61  ./test.sh
+   62  vim test.sh
+   63  ./test.sh
+   64  vim test.sh
+   65  ./test.sh
+   66  vim test.sh
+   67  ./test.sh
+   68  vim test.sh
+   69  ./test.sh
+   70  vim test.sh
+   71  ./test.sh
+   72  vim test.sh
+   73  iid 3
+   74  int3
+   75  int 3
+   76  init 3
+   77  ps axj | grep -E 'sleep | more'
+   78  netstat -nltp |grep ssh
+   79  mkdir daemon
+   80  touch mydaemon.c
+   81  vim mydaemon.c
+   82  vim test.c
+   83  vim mydaemon.c
+   84  netstat -nltp
+   85  cd classes
+   86  mkdir socket
+   87  cd socket
+   88  vim Makefile
+   89  vim socket.c
+   90  vim server.c
+   91  touch client.c
+   92  vim Makefile
+   93  vim server.c
+   94  ifup eth0
+   95  ifconfig
+   96  vim client.c
+   97  ifup eth0
+   98  cd classes
+   99  ..
+  100  ifup eth0
+  101  ifconfig
+  102  ifup eth0
+  103  ifconfig
+  104  vim heepd.c
+  105  vim httpd.c
+  106  mkdir cgi_bin
+  107  vim Makefile
+  108  cd cgi_bin
+  109  vim cgi.c
+  110  vim Makefile
+  111  yum install httpd
+  112  yum install mysql
+  113  service mysql start
+  114  service mysqld start
+  115  yum install MySQL
+  116  yum install mysqld
+  117  yum install mysql
+  118  service mysqld
+  119  service mysqld start
+  120  yum install mysql-server
+  121  yum install mysql-devel
+  122  service mysqld start
+  123  service mysqld stop
+  124  cd classes
+  125  mkdir sql_connect
+  126  cd sql_connect
+  127  vim sql_connect.h
+  128  vim sql_connect.cpp
+  129  vim sql_connect.h
+  130  vim Makefile
+  131  vim sql_connect.cpp
+  132  vim sql_connect.h
+  133  vim Makefile
+  134  vim sql_connect.cpp
+  135  vim sql_connect.h
+  136  vim sql_connect.cpp
+  137  vim sql_connect.h
+  138  vim sql_connect.cpp
+  139  mysql
+  140  service mysqld start
+  141  mysql
+  142  cd classes
+  143  cd sql_connect
+  144  vim sql_connect
+  145  vim sql_connect.h
+  146  vim sql_connect.c
+  147  vim sql_connect.cpp
+  148  vim sql_connect.h
+  149  vim sql_connect.cpp
+  150  vim httpd.c
+  151  cd classes
+  152  cd httpd
+  153  cd cgi_bin
+  154  vim Makefile
+  155  cd ..
+  156  cd..
+  157  cd ..
+  158  cd sql_connect
+  159  vim Makefiel
+  160  vim Makefile
+  161  Make
+  162  make
+  163  cd..
+  164  cd ..
+  165  sudo chmod -R 777 /home/classes/sql_connect
+  166  sudo chmod -R 777 /desktop/classes/sql_connect
+  167  pwd
+  168  sudo chmod -R 777 /home/wmy/Desktop/classes/sql_connect
+  169  sudo chmod -R 777 /home/wmy/Desktop/classes/httpd/cgi_bin
+  170  cd httpd
+  171  cd cgi_bin
+  172  vim Makefile
+  173  cd ..
+  174  vim httpd.c
+  175  vim httpd.h
+  176  vim Makefiel
+  177  vim Makefile
+  178  vim start.sh
+  179  vim demo_client.c
+  180  vim demo_client.h
+  181  touch build.sh
+  182  vim build.sh
+  183  cd cgi_bin
+  184  vim Makefile
+  185  vim debug_cgi.c
+  186  touch math_cgi.c
+  187  vim math_cgi.c
+  188  touch register_cgi.c
+  189  touch show_student_cgi.c
+  190  vim math_cgi.c
+  191  vim register_cgi.c
+  192  vim show_student_cgi.c
+  193  cd ..
+  194  cd sql_connect
+  195  vim connect.c
+  196  vim sql_connect.c
+  197  vim sql_connect.cpp
+  198  vim sql_connect.h
+  199  vim Makefile
+  200  cd ..
+  201  cd conf
+  202  touch httpd.conf
+  203  vim httpd.conf
+  204  cd ..
+  205  mkdir htdocs
+  206  touch index.html
+  207  vim index.html
+  208  touch register.html
+  209  vim register.html
+  210  touch a.jpg
+  211  mkdir output
+  212  cd output
+  213  mkdir conf
+  214  cd conf
+  215  touch httpd.conf
+  216  vim httpd.conf
+  217  cd ..
+  218  cd output
+  219  mkdir htdocs
+  220  cd htdocs
+  221  cd ..
+  222  sudo chmod -R 777 /home/wmy/Desktop/classes/httpd/htdocs
+  223  sudo chmod -R 777 /home/wmy/Desktop/classes/httpd/output
+  224  if eth0
+  225  ifup eth0
+  226  if config
+  227  ifconfig
+  228  cd classes
+  229  cd httpd
+  230  make
+  231  vim~/.vimrc
+  232  vim ~/.vimrc
+  233  vim /etc/vimrc
+  234  vim Makefile
+  235  make
+  236  vim Makefile
+  237  make
+  238  vim Makefile
+  239  make
+  240  vim Makefile
+  241  make
+  242  vim Makefile
+  243  make
+  244  vim Makefile
+  245  make
+  246  vim Makefile
+  247  make
+  248  vim httpd.c
+  249  make
+  250  vim httpd.c
+  251  make
+  252  vim httpd.c
+  253  vim httpd.h
+  254  make
+  255  vim httpd.c
+  256  make
+  257  vim httpd.h
+  258  vim httpd.c
+  259  make
+  260  vim httpd.c
+  261  make
+  262  vim httpd.c
+  263  make
+  264  vim httpd.c
+  265  make
+  266  vim httpd.c
+  267  make
+  268  vim httpd.c
+  269  make
+  270  vim httpd.c
+  271  vim httpd.h
+  272  make
+  273  vim httpd.h
+  274  make
+  275  vim httpd.c
+  276  make
+  277  vim httpd.c
+  278  make
+  279  vim httpd.c
+  280  vim Makefile
+  281  make
+  282  vim httpd.c
+  283  make
+  284  vim httpd.c
+  285  vim start.sh
+  286  make
+  287  vim httpd.c
+  288  make
+  289  vim httpd.c
+  290  make
+  291  vim demo_client.c
+  292  make
+  293  vim httpd.c
+  294  cd cgi_bin
+  295  vim Makefile
+  296  cd..
+  297  cd ..
+  298  make
+  299  cd cgi_bin
+  300  vim Makefile
+  301  cd ..
+  302  make
+  303  cd cgi_bin
+  304  vim Makefiel
+  305  vim Makefile
+  306  cd ..
+  307  make
+  308  cd cgi_bin
+  309  vim Makefile
+  310  cd ..
+  311  make
+  312  cd cgi_bin
+  313  vim Makefile
+  314  cd ..
+  315  make
+  316  make clean
+  317  make
+  318  make clean
+  319  make
+  320  ./httpd
+  321  ./httpd 8080
+  322  clean
+  323  cd htdocs
+  324  vim index.html
+  325  cd ..
+  326  cd httpd
+  327  make clean
+  328  make
+  329  ./httpd 8080
+  330  cd htdocs
+  331  vim register.html
+  332  cd ..
+  333  ./httpd
+  334  ./httpd 8080
+  335  cd ..
+  336  service mysqld start
+  337  mysqladmin -u root password 123456
+  338  mysql -u root -p
+  339  cd classes
+  340  cd httpd
+  341  ./httpd
+  342  ./httpd 8080
+  343  cd cgi_bin
+  344  vim Makefile
+  345  cd ..
+  346  make
+  347  cd ..
+  348  yun install g++
+  349  yum install g++
+  350  ifup eth0
+  351  yum install g++
+  352  yum install gcc-c++
+  353  pwd
+  354  cd classes
+  355  cd httpd
+  356  make
+  357  make clean
+  358  cd mysql_connect
+  359  cd sql_connect
+  360  make
+  361  vim Makefile
+  362  make
+  363  vim Makefile
+  364  make
+  365  vim sql_connect.h
+  366  vim sql_connect.cpp
+  367  vim sql_connect.h
+  368  vim sql_connect.cpp
+  369  cd classes
+  370  cd httpd
+  371  make
+  372  cd sql_connect
+  373  make
+  374  vim sql_connect.cpp
+  375  vim Makefiel
+  376  vim Makefile
+  377  vim sql_connect.h
+  378  vim sql_connect.cpp
+  379  vim sql_connect.h
+  380  ifup eth0
+  381  yum list "*mysql*"|grep devel
+  382  yum -y install mysql++-devel.i686
+  383  yum search mysql
+  384  cd classes
+  385  cd httpd
+  386  make
+  387  make clean
+  388  make
+  389  ./httpd
+  390  ./httpd 8080
+  391  ./httpd
+  392  ./httpd 8080
+  393  telnet
+  394  yum install telnet
+  395  telnet 127.0.0.1 8080
+  396  ls
+  397  chmod u+x build.sh 
+  398  ls
+  399  ./build.sh 
+  400  ls
+  401  ./httpd 
+  402  chmod u+x start.sh 
+  403  ls
+  404  make clean
+  405  ./build.sh 
+  406  cd output/
+  407  ls
+  408  ./start.sh 
+  409  ls
+  410  cd  ..
+  411  ls
+  412  cd cgi_bin/
+  413  ls
+  414  vim math_cgi.c 
+  415  cd ..
+  416  ls
+  417  ./build.sh 
+  418  cd output/
+  419  ./start.sh 
+  420  pwd
+  421  cd ..
+  422  ls
+  423  pwd
+  424  ls
+  425  cd sql_connect/
+  426  ls
+  427  rm mysql
+  428  rm -rf mysql_lib/
+  429  ls
+  430  tar -zxvf mysql-connector-c-6.1.6-linux-glibc2.5-i686.tar.gz 
+  431  ls
+  432  mv mysql-connector-c-6.1.6-linux-glibc2.5-i686 mysql_lib
+  433  ls
+  434  rm mysql-connector-c-6.1.6-linux-glibc2.5-i686.tar.gz 
+  435  ls
+  436  make
+  437  ll
+  438  export
+  439  ls
+  440  cd mysql_lib/
+  441  ls
+  442  cd lib/
+  443  ls
+  444  pwd
+  445  cd ..
+  446  ls
+  447  cd ..
+  448  ls
+  449  export LD_LIBRARY_PATH=/home/wmy/Desktop/classes/httpd/sql_connect/mysql_lib/lib
+  450  LS
+  451  maek
+  452  mkae
+  453  make
+  454  vim sql_connect.cpp 
+  455  make
+  456  vim sql_connect.cpp 
+  457  make
+  458  vim sql_connect.cpp 
+  459  make
+  460  vim sql_connect.cpp 
+  461  make
+  462  vim sql_connect.cpp 
+  463  make
+  464  vim sql_connect.cpp 
+  465  make
+  466  ls
+  467  ./sql_connect
+  468  make clean
+  469  ls
+  470  rm sql_connect.h~
+  471  ls
+  472  vim sql_connect.cpp 
+  473  make
+  474  vim sql_connect.cpp 
+  475  make
+  476  ./sql_connect
+  477  make clean
+  478  vim sql_connect.cpp 
+  479  ls
+  480  make
+  481  ./sql_connect
+  482  make clean
+  483  vim sql_connect.cpp 
+  484  make
+  485  ./sql_connect.cpp 
+  486  make
+  487  vim sql_connect.cpp 
+  488  maek
+  489  make
+  490  vim sql_connect.cpp 
+  491  make
+  492  ./sql_connect
+  493  vim sql_connect.cpp 
+  494  ls
+  495  make clea
+  496  make clean
+  497  ls
+  498  cd ..
+  499  ls
+  500  cd cgi_bin/
+  501  ls
+  502  vim register_cgi.cpp 
+  503  make
+  504  ls
+  505  make clean
+  506  ls
+  507  vim Makefile
+  508  ls
+  509  make
+  510  vim register_cgi.cpp 
+  511  make
+  512  ls
+  513  vim register_cgi.cpp 
+  514  cd ..
+  515  ls
+  516  cd sql_connect/
+  517  ls
+  518  vim sql_connect.cpp 
+  519  ls
+  520  make
+  521  ./sql_connect
+  522  make clean
+  523  vim sql_connect.cpp 
+  524  amke
+  525  make
+  526  ./sql_connect
+  527  make clean
+  528  vim sql_connect.cpp 
+  529  ls
+  530  cd ..
+  531  cd cgi_bin/
+  532  ls
+  533  vim Makefile
+  534  ls
+  535  make clean
+  536  make
+  537  vim Makefile
+  538  vim register_cgi.cpp 
+  539  make
+  540  l
+  541  sl
+  542  ll
+  543  rm Makefile~
+  544  ls
+  545  rm Makefile~
+  546  ls
+  547  vim Makefile 
+  548  make
+  549  ls
+  550  vim register_cgi.cpp 
+  551  history>cmd
